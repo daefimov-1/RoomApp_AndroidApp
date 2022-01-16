@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoomApp</string>
+    <string name="search_hint">Поиск по заметкам</string>
+    <string name="all_notes">Все заметки</string>
+    <string name="create_new_note">Создать новую заметку</string>
+    <string name="enter_text_note">Введите текст заметки</string>
+    <string name="save">Сохранить</string>
+    <string name="back">Назад</string>
+</resources>
